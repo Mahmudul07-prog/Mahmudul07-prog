@@ -47,7 +47,7 @@
 ### 📫 Contact Me
 - **📧 Email**: faysalkrock2@gmail.com
 - **🌐 Portfolio**: [Coming Soon...]
-- **🔗 LinkedIn**: [Coming Soon...]
+- **🔗 LinkedIn**: www.linkedin.com/in/mahmudul-hasan-80259b374/
 
 ---
 
