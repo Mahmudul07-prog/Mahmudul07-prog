@@ -14,12 +14,13 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Full Stack Developer** with **788 hours** of structured, hands-on training across 14 comprehensive modules — covering everything from database design to cross-platform mobile development. I build real-world web and mobile applications using **ASP.NET Core**, **Angular**, **React**, and **.NET MAUI**.
+I'm a **Full Stack Developer** with **788 hours** of structured, hands-on training across 14 comprehensive modules — covering everything from database design to cross-platform mobile development. I build real-world web and mobile applications using **ASP.NET Core**, **Angular**, **React**, **Vue.js**, and **.NET MAUI**, backed by multi-database expertise across **MS SQL Server**, **PostgreSQL**, and **Oracle**.
 
 - 🔭 Currently building production-grade apps with **ASP.NET Core Web APIs** and **Angular**
 - 📱 Exploring cross-platform mobile development with **.NET MAUI**
-- 🌱 Deepening expertise in **clean architecture**, **EF Core**, and **Azure cloud services**
-- 💬 Ask me about **C#**, **.NET**, **Web APIs**, or **frontend frameworks**
+- 🌱 Deepening expertise in **clean architecture**, **EF Core**, **reporting dashboards**, and **Azure cloud services**
+- 🗄️ Working with **MS SQL Server**, **PostgreSQL**, and **Oracle** databases
+- 💬 Ask me about **C#**, **.NET**, **Web APIs**, **Vue.js**, or **database design**
 
 ---
 
@@ -35,12 +36,22 @@ I'm a **Full Stack Developer** with **788 hours** of structured, hands-on traini
 ### Frontend
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
+### Reporting & Data Visualization
+![SSRS](https://img.shields.io/badge/SSRS-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+![Crystal Reports](https://img.shields.io/badge/Crystal_Reports-0077B5?style=flat&logo=sap&logoColor=white)
+![RDLC](https://img.shields.io/badge/RDLC_Reports-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat&logo=chart.js&logoColor=white)
+![Vue-ApexCharts](https://img.shields.io/badge/ApexCharts-00E5FF?style=flat&logo=apexcharts&logoColor=black)
+
 ### Database & Cloud
 ![MS SQL Server](https://img.shields.io/badge/MS_SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
 ![ADO.NET](https://img.shields.io/badge/ADO.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 
