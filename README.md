@@ -1,8 +1,8 @@
 <div align="center">
 
 # 👨‍💻 Mahmudul Hasan
-### Full Stack Software Engineer | .NET & Modern Web Specialist
-📍 **Dhaka, Bangladesh**
+### Full Stack Software Engineer · .NET & Modern Web Specialist
+📍 Dhaka, Bangladesh (Open to Remote & On-Site Roles)
 
 <br/>
 
@@ -14,11 +14,17 @@
 <br/>
 <br/>
 
-<!-- Quick Connect Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmudul-hasan-80259b374/)
-[![Portfolio](https://img.shields.io/badge/Live_Portfolio-00C853?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mahmudul07-prog.github.io/My-Portfolio/)
-[![Email](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faysalkrock2@gmail.com)
+<!-- Quick Connect & Status Badges -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmudul-hasan-80259b374/)
+[![Portfolio](https://img.shields.io/badge/Live_Portfolio-Visit-00C853?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mahmudul07-prog.github.io/My-Portfolio/)
+[![Email](https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faysalkrock2@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=Mahmudul07-prog&style=for-the-badge&color=0284c7&label=PROFILE+VIEWS)](https://github.com/Mahmudul07-prog)
+
+<br/>
+
+[![Status: Open for Opportunities](https://img.shields.io/badge/Opportunities-Open_for_Hire-success?style=flat-square&logo=checkmarx&logoColor=white)](#-lets-connect--collaborate)
+[![Focus: .NET & Modern Web](https://img.shields.io/badge/Focus-ASP.NET_Core_%7C_Angular_%7C_React-512BD4?style=flat-square&logo=dotnet&logoColor=white)](#-technical-stack--tooling)
+[![Architecture: Clean Architecture](https://img.shields.io/badge/Architecture-Clean_%26_Repository_Pattern-008080?style=flat-square)](#-engineering-principles--architecture)
 
 </div>
 
@@ -43,6 +49,18 @@ My engineering philosophy centers on **Clean Architecture**, **SOLID principles*
 
 ---
 
+### 🏛️ Engineering Principles & Architecture
+
+| Principle | Engineering Implementation |
+| :--- | :--- |
+| **Clean Architecture & Domain Separation** | Decoupling core business domain entities and use-cases from UI and infrastructure dependencies for high maintainability and testability. |
+| **Repository & Unit of Work Patterns** | Abstracting data access layer logic, managing transactions centrally, and ensuring ACID compliance across relational operations. |
+| **High-Throughput RESTful APIs** | Building asynchronous, non-blocking endpoints (`async`/`await`), structured HTTP status semantics, payload validation, and Swagger/OpenAPI documentation. |
+| **Enterprise Security & Access Control** | Implementing stateless JWT authentication with refresh token lifecycle handling, granular Role-Based Access Control (RBAC), and CORS protection. |
+| **Database Performance Tuning** | Optimizing index strategies, execution plans, stored procedures, complex views, and minimizing ORM n+1 query penalties. |
+
+---
+
 ### 🛠️ Technical Stack & Tooling
 
 <div align="center">
@@ -64,9 +82,31 @@ My engineering philosophy centers on **Clean Architecture**, **SOLID principles*
 
 ---
 
-### 🚀 Featured Engineering Projects
+### 🚀 Flagship Repositories & Highlights
 
-A curated selection of production-grade systems and open-source applications:
+<div align="center">
+
+<a href="https://github.com/Mahmudul07-prog/OfficeManagementSystem_Angular">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mahmudul07-prog&repo=OfficeManagementSystem_Angular&theme=tokyonight&hide_border=true" alt="Office Management System" />
+</a>
+<a href="https://github.com/Mahmudul07-prog/Cascading-.Net-Core-Api-React">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mahmudul07-prog&repo=Cascading-.Net-Core-Api-React&theme=tokyonight&hide_border=true" alt="Cascading Job Platform" />
+</a>
+
+<br/>
+
+<a href="https://github.com/Mahmudul07-prog/RailTicketBot">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mahmudul07-prog&repo=RailTicketBot&theme=tokyonight&hide_border=true" alt="Rail Ticket Bot" />
+</a>
+<a href="https://github.com/Mahmudul07-prog/rbac-system">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mahmudul07-prog&repo=rbac-system&theme=tokyonight&hide_border=true" alt="RBAC System" />
+</a>
+
+</div>
+
+<br/>
+
+#### 📋 Enterprise Project Directory
 
 | Project | Tech Stack | Highlights & Architecture | Source |
 | :--- | :--- | :--- | :---: |
@@ -124,7 +164,7 @@ A curated selection of production-grade systems and open-source applications:
 
 ### 📬 Let's Connect & Collaborate
 
-Whether you have an upcoming project, are looking to fill an open role, or simply want to connect with a fellow engineer, my inbox is always open!
+I am actively open to **Software Engineer / Full Stack .NET Developer** roles (Full-time, Contract, or Remote). If you are looking for an engineer with strong architecture discipline, clean coding habits, and full-lifecycle delivery experience, let's talk!
 
 <div align="center">
 
@@ -137,25 +177,6 @@ Whether you have an upcoming project, are looking to fill an open role, or simpl
 
 <br/>
 
-```csharp
-namespace DeveloperProfile
-{
-    public class MahmudulHasan : IFullStackEngineer
-    {
-        public string Location => "Dhaka, Bangladesh 🇧🇩";
-        public string[] CoreStack => new[] { "C#", ".NET Core", "ASP.NET Core Web API", "Angular", "React", "SQL Server" };
-        public bool IsOpenToOpportunities => true;
-        
-        public void BuildSoftware()
-        {
-            Console.WriteLine("Crafting scalable, clean, and high-performance solutions!");
-        }
-    }
-}
-```
-
-<br/>
-
-*⭐ Star my repositories if you find my work helpful, and feel free to fork or contribute!*
+*⭐ Feel free to explore my repositories, open an issue, or send a message for collaboration!*
 
 </div>
