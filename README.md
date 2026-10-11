@@ -2,7 +2,7 @@
 
 # 👨‍💻 Mahmudul Hasan
 ### Full Stack Software Engineer | .NET & Modern Web Specialist
-**Dhaka, Bangladesh 🇧🇩**
+📍 **Dhaka, Bangladesh**
 
 <br/>
 
@@ -111,7 +111,7 @@ A curated selection of production-grade systems and open-source applications:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mahmudul07-prog&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Mahmudul's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Mahmudul07-prog&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Mahmudul's GitHub Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmudul07-prog&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 <br/>
