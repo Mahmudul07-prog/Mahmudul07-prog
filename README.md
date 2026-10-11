@@ -8,7 +8,7 @@
 
 <!-- Typing SVG Animation -->
 <a href="https://github.com/Mahmudul07-prog">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=580&lines=Full+Stack+.NET+Software+Engineer;ASP.NET+Core+Web+API+%26+Angular+%2F+React;Clean+Architecture+%26+Repository+Pattern;Database+Design+%26+High-Performance+SQL;Building+Scalable+Enterprise+Solutions+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0ea5e9&center=true&vCenter=true&width=560&lines=Full+Stack+.NET+Software+Engineer;ASP.NET+Core+and+Angular+Developer;Clean+Architecture+and+RESTful+APIs;Database+Design+and+Query+Optimization;Building+Scalable+Enterprise+Solutions" alt="Typing SVG" />
 </a>
 
 <br/>
